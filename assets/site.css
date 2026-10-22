@@ -28,3 +28,7 @@ nav.top {
 nav.top a { color: var(--muted); text-decoration: none; }
 nav.top a:hover { color: var(--link); text-decoration: underline; }
 nav.top .links { display: flex; gap: 16px; }
+footer.site {
+  max-width: 680px; margin: 0 auto; padding: 16px 16px 40px; border-top: 1px solid var(--rule);
+  font-size: 15px; color: var(--muted);
+}
