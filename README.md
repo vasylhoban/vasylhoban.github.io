@@ -1,0 +1,1 @@
+This repository holds the static GitHub Pages site served at https://vasylhoban.github.io/ — currently the privacy policy and support pages (English and Ukrainian) for the iOS game Truth or Dare: Nothing to Hide, under `/truthordare/`. Plain HTML and one stylesheet: no JavaScript, analytics, cookies or external resources.
